@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Brian Durkin Jr.</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from Philadelphia, PA</h3>
 
 - 🔭 I’m currently working on [Assembler](https://github.com/Capstone-Projects-2022-Spring/project-assembler)
 
